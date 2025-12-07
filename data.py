@@ -15,3 +15,11 @@ print(sum)
 
 #data ke types
 #organised aur unorganised
+
+#Organised data - mtlb data ko ache se maintain ke rakhna taki ache se wo accessible ho
+
+#Unorganised Data - mtlb data ko jaise mann taise rakhna ache se maintain krke na rakhna
+
+#data structure = organised data
+#A data structure is a particular way of orginizing data in computer's memory
+
